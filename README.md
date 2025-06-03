@@ -20,17 +20,16 @@ I'm a Computer Science student at **King's College London (KCL)** with a strong 
 ---
 
 ## 🎯 Interests
-
 - Machine Learning in Healthcare  
 - Data Science & Applied Mathematics  
 - Generative AI & Interactive Visualizations  
-
+- And More!
 ---
 
 ## 📚 Projects 
 - I have a couple machine learning repos (COPD_pred & exoplanets)
 - As well as other silly little repos 
-- Hopefuly I will have upcoming projects combining ML, visualization, and healthcare insights.
+- Hopefuly I will have more upcoming projects combining ML, visualization, and healthcare insights.
 
 ---
 
