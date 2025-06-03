@@ -40,7 +40,7 @@ I'm continuously expanding my knowledge, currently diving deeper into mathematic
 ---
 
 ## 📫 Let's connect!  
-Feel free to reach out via [GitHub](https://github.com/sofialinardakis), [LinkedIn](www.linkedin.com/in/sofia-linardakis-santapau-8b8aa6336)
+Feel free to reach out via [GitHub](https://github.com/sofialinardakis), [LinkedIn](https://www.linkedin.com/in/sofia-linardakis-santapau-8b8aa6336)
 
 - Would love to collaborate on ML projects with healthcare
 
