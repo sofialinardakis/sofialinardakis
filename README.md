@@ -9,8 +9,9 @@ I'm a Computer Science student at **King's College London (KCL)** with a strong 
 - **Languages:** Python, Java, HTML, CSS  
 - **Tools & Design:** Figma  
 - **Want to Learn:** JavaScript, Three.js, C++
+- **Done recently:** Finished ICL's course on Linear Algebra in combination with Strang's Linear Algebra and its applications
 - **Currently Doing:**  
-  - Finishing ICL's course on Linear Algebra in combination with Strang's Linear Algebra and its applications
+  - Project on handwriting and concept maps
 - **To Do Soon**
   - ICL's course on Multivariable Calculus + book
   - Intro to Probability book
